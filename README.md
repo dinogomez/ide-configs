@@ -1,2 +1,2 @@
-# neovim
-my neovim configurations
+# ide-configs
+my neovim and vscode configurations
