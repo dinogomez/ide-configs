@@ -1,0 +1,52 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "moxer-icons",
+  "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
+  "workbench.settings.editor": "json",
+  "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
+  "editor.wordWrap": "bounded",
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Geist Mono",
+  "terminal.integrated.fontFamily": "Geist Mono",
+  "terminal.integrated.fontSize": 14,
+  "editor.fontSize": 14,
+  "explorer.confirmDelete": false,
+  "apc.font.family": "Geist Mono",
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 24
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 22,
+    "fontSize": 12
+  },
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 8,
+      "y": 10
+    }
+  },
+  "apc.header": {
+    "height": 34,
+    "fontSize": 14
+  },
+  "apc.listRow": {
+    "height": 21,
+    "fontSize": 13
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "window.zoomLevel": 1,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "never"
+}
