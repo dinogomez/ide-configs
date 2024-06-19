@@ -1,29 +1,30 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "moxer-icons",
-  "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
+  "workbench.iconTheme": "webstorm-icons",
   "workbench.settings.editor": "json",
+  "workbench.tree.indent": 24,
   "breadcrumbs.enabled": false,
   "explorer.compactFolders": false,
   "editor.wordWrap": "bounded",
   "editor.tabSize": 2,
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
-  "editor.fontFamily": "Geist Mono",
-  "terminal.integrated.fontFamily": "Geist Mono",
+  "editor.fontFamily": "SF mono",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "terminal.integrated.fontSize": 14,
-  "editor.fontSize": 14,
+  "editor.fontSize": 18,
+  "editor.fontWeight": "500",
   "explorer.confirmDelete": false,
-  "apc.font.family": "Geist Mono",
+  "apc.font.family": "JetBrains Mono",
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
-    "size": 24
+    "size": 36
   },
   "apc.statusBar": {
     "position": "editor-bottom",
     "height": 22,
-    "fontSize": 12
+    "fontSize": 18
   },
   "apc.electron": {
     "titleBarStyle": "hiddenInset",
@@ -34,11 +35,11 @@
   },
   "apc.header": {
     "height": 34,
-    "fontSize": 14
+    "fontSize": 18
   },
   "apc.listRow": {
     "height": 21,
-    "fontSize": 13
+    "fontSize": 18
   },
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
@@ -48,5 +49,13 @@
   },
   "typescript.updateImportsOnFileMove.enabled": "never",
   "explorer.confirmDragAndDrop": false,
-  "javascript.updateImportsOnFileMove.enabled": "never"
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.colorTheme": "Webstorm IntelliJ Darcula Theme",
+  "emulator.emulatorPath": "/home/paul/Android/Sdk/emulator",
+  "emulator.emulatorPathLinux": "/home/paul/Android/Sdk/emulator",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true
 }
